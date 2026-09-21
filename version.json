@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "apk_url": "https://github.com/mvlttcm-creator/turkce-odev-takip/releases/latest/download/Turkce_Odev_Takip.apk",
-  "notes": "e-Okul PDF desteği eklendi. Öğretmen puan çizelgeleri ve başarı sıralamaları tam otomatik tanınıyor."
+  "notes": "Haftalık sınıf çizelgesini velilerle toplu paylaşma, durumlara basılı tutunca silme özelliği ve modern arayüz iyileştirmeleri eklendi."
 }
