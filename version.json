@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "apk_url": "https://github.com/mvlttcm-creator/turkce-odev-takip/releases/latest/download/Turkce_Odev_Takip.apk",
-  "notes": "✨ Yenilikler (v1.5.0):\n• Günün Özeti Karşılama Kartı (Halka tamamlama oranı ve Tümü/Yapıldı/Yapılmadı/Bekleyenler filtre butonları)\n• Kaydırarak Hızlı Kontrol (Öğrenciyi sağa kaydır: Yapıldı +, sola kaydır: Yapılmadı -)\n• Öğrenci Profil Kartı (Öğrenciye dokunarak detaylı istatistik, veli telefonu düzenleme, tek tıkla WhatsApp veya Arama)\n• Çift Renk Teması (Ayarlar'dan Zümrüt & Safir veya Sıcak Latte tema seçimi)"
+  "notes": "✨ Yenilikler (v1.6.0):\n• Aylık Resimli Sınıf Karnesi / Başarı Çizelgesi Eklendi!\n• Çizelge ve Veli Raporları ekranından tek tıkla 'Aylık Rapor' alabilme\n• Tüm sınıfın aylık ödev dökümünü, başarı oranını ve istatistiklerini yüksek çözünürlüklü tek bir resim (PNG) olarak kendinize veya veli grubuna gönderebilme"
 }
